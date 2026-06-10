@@ -2,3 +2,8 @@
 # And python. And data structures and algorithms!
 # And a lot of things actually.
 
+import os
+import sys
+import time
+
+pid = os.fork()
